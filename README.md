@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **data analysis and dataviz projects**
 
-- 🤝 I’m looking for help with **entry-level data analysis jobs**
+- 🤝 I’m looking for **entry-level data analysis jobs**
 
 - 💬 Skills **PowerBI, Python, R, SQL**
 
